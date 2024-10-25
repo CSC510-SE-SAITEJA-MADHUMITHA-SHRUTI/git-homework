@@ -8,3 +8,6 @@ This repository contains exercises related to Git repository management. It demo
     Undoing commits and cleaning up the repository.
 
 This project showcases best practices in Git version control as part of a homework assignment.
+
+
+![](teamwebpage.png)
